@@ -2,9 +2,9 @@
 
 # Travis CI
 
-[Travis CI](https://travis-ci.com) is a hosted continuous integration and
+[Travis CI]( https://github.com/https-github-com-ruzyysmartt/travis-ci.git )is a hosted continuous integration and
 deployment system. You can now test and deploy open source and private projects
-on [travis-ci.com](https://travis-ci.com)! You can read more about this change 
+on [travis-ci.com](https://travis-ci.com)(https://github.com/https-github-com-ruzyysmartt/travis-ci.git) You can read more about this change 
 [here](https://blog.travis-ci.com/2018-05-02-open-source-projects-on-travis-ci-com-with-github-apps).
 
 ## Move to Forum
@@ -93,10 +93,4 @@ It is written using [Ember](http://emberjs.com) and communicates with
 [travis-api](#travis-api) to get information and gets live updates from
 [travis-hub](#travis-hub) and [travis-logs](#travis-logs) through
 [Pusher](https://pusher.com/).
-
-### travis-worker
-
-[travis-worker](https://github.com/travis-ci/worker) is responsible for
-running the build scripts in a clean environment. It streams the log output to
-[travis-logs](#travis-logs) and pushes state updates (build starting/finishing)
-to [travis-hub](#travis-hub).
+[fork ]( https://github.com/https://ruzyysmartt/ travis.ci.gits)
